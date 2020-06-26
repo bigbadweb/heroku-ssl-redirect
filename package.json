@@ -1,0 +1,24 @@
+{
+  "name": "@bigbadweb/heroku-ssl-redirect",
+  "version": "1.0.0",
+  "description": "Helper to redirect visitors to https when running in heroku",
+  "main": "sslredirect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbadweb/heroku-ssl-redirect.git"
+  },
+  "keywords": [
+    "heroku",
+    "redirect",
+    "x-forwarded-proto"
+  ],
+  "author": "Matt Stabeler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigbadweb/heroku-ssl-redirect/issues"
+  },
+  "homepage": "https://github.com/bigbadweb/heroku-ssl-redirect#readme"
+}
