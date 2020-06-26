@@ -3,12 +3,12 @@
 
 Usage
 
-`npm install --save @bigbadweb/heroku-ssl-redirect`
+`npm install --save https://github.com/bigbadweb/heroku-ssl-redirect.git`
 
 
 Use the `NODE_ENV` environment variable. 
 
-```
+```.js
 const express = require('express');
 const sslredirect = require('heroku-ssl-redirect')
 
